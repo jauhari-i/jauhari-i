@@ -35,6 +35,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jauhari-i&show_icons=true&theme=radical&title_color=F6D55C&text_color=fff&icon_color=F6D55C">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauhari-i&theme=radical&title_color=F6D55C&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauhari-i&layout=compact&theme=radical&title_color=F6D55C&text_color=fff)
 
 :heart: From [ME](https://github.com/jauhari-i)
