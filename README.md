@@ -37,6 +37,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jauhari-i&layout=compact&theme=radical&title_color=F6D55C&text_color=fff)
 
-![Jauhari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jauharii&theme=radical&title_color=F6D55C&text_color=fff)
-
 :heart: From [Muhammad Irfan Jauhari](https://github.com/jauhari-i)
