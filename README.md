@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on NodeJs And React Js
 - 🌱 I’m currently learning Full Stack
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me: kangrykong123@gmail.com or jauhariirfan4@gmail.com
 
 ### Social Media
 
