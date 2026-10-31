@@ -29,10 +29,4 @@
 ![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=F6D55C)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=F6D55C)
 
-### Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jauhari-i&show_icons=true&theme=radical&title_color=F6D55C&text_color=fff&icon_color=F6D55C">
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jauhari-i&layout=compact&theme=radical&title_color=F6D55C&text_color=fff)
-
 :heart: From [Muhammad Irfan Jauhari](https://github.com/jauhari-i)
